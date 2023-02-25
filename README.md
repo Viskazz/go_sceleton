@@ -1,2 +1,2 @@
-# go_sceleton
-Sceleton folder structure
+# go_skeleton
+Skeleton folder structure
